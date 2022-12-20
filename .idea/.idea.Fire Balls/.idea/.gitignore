@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/.idea.Fire Balls.iml
+/projectSettingsUpdater.xml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../:\WorkProjects\Fire Balls\.idea\.idea.Fire Balls\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
